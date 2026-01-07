@@ -154,13 +154,15 @@ This project is currently in early development. Documentation will be updated as
 
 **Built on:**
 - Ren'Py Engine by Tom "PyTom" Rothamel
-- [Mysterious Messenger Framework](https://mysterious-messenger.readthedocs.io/) by Feniks
+- [Mysterious Messenger Framework]([https://mysterious-messenger.readthedocs.io/](https://github.com/shawna-p/mysterious-messenger)) by Shauna P.
 
 **Inspired by:**
 - Mystic Messenger (Cheritz)
 - MeChat
 - Love and Deepspace (Infold Games)
 - Otome Chat Connection
+- Love of fantasy and mythology
+- Love of visual novels 
 
 ---
 
